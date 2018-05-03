@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Horseshoes Score Keeper</string>
+    <string name="reset">Reset</string>
+    <string name="zero">0</string>
+    <string name="ringer">Ringer + 3</string>
+    <string name="leaner">Leaner + 2</string>
+    <string name="closest">Closest + 1</string>
+    <string name="blank"> </string>
+</resources>
